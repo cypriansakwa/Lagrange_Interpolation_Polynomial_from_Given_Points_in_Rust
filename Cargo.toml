@@ -1,0 +1,6 @@
+[package]
+name = "Lagrange_Interpolation_Polynomial_from_Given_Points_in_Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
