@@ -33,5 +33,5 @@ Given a set of $n + 1$ distinct points $(x_0, y_0), (x_1, y_1), \ldots, (x_n, y_
 ## Clone the repository:
 
    ```bash
-   git clone Lagrange_Interpolation_Polynomial_from_Given_Points_in_Rust.git
+   git clone https://github.com/cypriansakwa/Lagrange_Interpolation_Polynomial_from_Given_Points_in_Rust.git
    cd Lagrange_Interpolation_Polynomial_from_Given_Points_in_Rust
